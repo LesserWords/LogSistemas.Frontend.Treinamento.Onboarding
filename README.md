@@ -1,6 +1,19 @@
+*Data desse material: Novembro de 2022*
+**Pré-requesitos**
+
+Entendimento de **Inglês**, fala e escrita.
+Conhecimento de como usar **alguma** linguagem de programação.
+
+
+**Ferramentas**
+
+[CodeSandbox.io](https://codesandbox.io/), na minha opinião o melhor ambiente de programação online, usado para testes, protótipos e compartilhamento de código, com suporte a instalação de dependências e os principais frameworks.
+
 **Links**
 
 [Roadmap completo de web, não é preciso saber tudo agora(para estudo futuro, curiosidade)](https://roadmap.sh/frontend)
+
+[Algums livros de introdução bacana](https://github.com/gustavoguanabara/html-css/tree/master/aulas-pdf)
 
 Base de [html](https://www.w3schools.com/html/default.asp), [css](https://www.w3schools.com/css/default.asp) e [js](https://www.w3schools.com/js/default.asp)
 
@@ -12,13 +25,11 @@ Base de [html](https://www.w3schools.com/html/default.asp), [css](https://www.w3
 
 [Dicas de CSS](https://www.youtube.com/kepowob)
 
-Manter em mente:
-
-[https://www.youtube.com/watch?v=Z1RVPXpZOTY&list=PLtIMuymsF0jcsFDIAq6fGGU2kuOFrFPSm&index=27](https://www.youtube.com/watch?v=Z1RVPXpZOTY&list=PLtIMuymsF0jcsFDIAq6fGGU2kuOFrFPSm&index=27)
+Ter em mente, estudo mais avançado:
 
 [Web APIs](https://developer.mozilla.org/en-US/docs/Web/API)
 
-## 0. Sobre programação, a era da informação
+## 0. Sobre programação, o pesquisador e o compartilhador
 
 ## 1. A Web
 
@@ -98,6 +109,7 @@ Conceitos essenciais:
 Atualmente usamos o Nuxt2, então esse material foca em nuxt2 com algum material em vue2 e outros vue3 para o final(nuxt3 não lançado ainda)
 
 [O que é um framework](https://www.freecodecamp.org/news/what-is-a-framework-software-frameworks-definition/)
+    
 
 Vue
 
@@ -106,6 +118,7 @@ Vue
 [vue tutorial](https://www.youtube.com/watch?v=FXpIoQ_rT_c)
 
 [Documentação vue2](https://v2.vuejs.org/v2/guide/index.html)
+    
 
 Nuxt
 
@@ -120,12 +133,14 @@ Nuxt
 [SandBox de Nuxt](https://codesandbox.io/s/github/nuxt/codesandbox-nuxt/tree/master/?file=/pages/index.vue) 
 
 **[Porque o nuxt](https://cubettech.com/resources/blog/nuxt-js-and-vue-js-reasons-why-they-differ-and-when-do-they-combine/)** 
+    
 
 Mais info
 
 [Teoria de melhor criação de componentes](https://youtu.be/HVzYir_0Kgg)
 
 [Sobre Refs](https://blog.logrocket.com/understanding-vue-refs/)
+    
 
 ## 4. O ambiente frontend
 
