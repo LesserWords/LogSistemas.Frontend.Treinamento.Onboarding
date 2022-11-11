@@ -60,7 +60,7 @@ Extenções para o VSCode
 
 # 0. Programação, o pesquisador e o compartilhador
 
-Toda a internet e programação em geral evolui a base do compartilhamento, um bom programador não é só aquele que aprende, mas aquele que tambem compartilha o que aprendeu.
+Toda a internet e programação em geral evoluiu na base do compartilhamento, um bom programador não é só aquele que aprende, mas aquele que tambem compartilha o que aprendeu.
 
 # 1. A Web
 
