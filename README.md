@@ -117,15 +117,15 @@ O browser consegue interpretar praticamente todo html, quebrado, ruim ou fora de
 
 HTML
 
-- [Full curson introdutorio](https://www.youtube.com/watch?v=pQN-pnXPaVg)  
+- [Full curso introdutório](https://www.youtube.com/watch?v=pQN-pnXPaVg)  
 - [docs](https://www.w3schools.com/html/default.asp)
 
 CSS
 
-- [Curson introdutorio](https://www.youtube.com/watch?v=yfoY53QXEnI)  
+- [Curso introdutório](https://www.youtube.com/watch?v=yfoY53QXEnI)  
 - [Full curso](https://www.youtube.com/watch?v=n4R2E7O-Ngo)   
-- [Curso mais pratico](https://www.youtube.com/watch?v=FqmB-Zj2-PA)  
-- [Basico de CSS](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
+- [Curso mais prático](https://www.youtube.com/watch?v=FqmB-Zj2-PA)  
+- [Básico de CSS](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
 - [docs](https://www.w3schools.com/css/default.asp)
 - [Css mais explicativo](https://developer.mozilla.org/en-US/docs/Web/CSS/Cascade)
 - [Ótima fonte de css e seus tricks e truques](https://css-tricks.com/)
