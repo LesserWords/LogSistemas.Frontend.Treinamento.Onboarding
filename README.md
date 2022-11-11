@@ -1,6 +1,6 @@
 _Novembro de 2022_
 
-**_Em progresso_**
+**_Em desenvolvimento_**
 
 ## **Pré-requesitos**
 
@@ -52,6 +52,8 @@ Extenções para o VSCode
 
 [Melhor fonte de info web, varias tecnologias](https://developer.mozilla.org/en-US/)
 
+[Checar se uma tecnologia tem suporte no navegador](https://caniuse.com/)
+
 **Ter em mente, estudo mais avançado:**
 
 [Web APIs](https://developer.mozilla.org/en-US/docs/Web/API)
@@ -92,11 +94,13 @@ Como navegadores funcionam, [video](https://www.youtube.com/watch?v=WjDrMKZWCt0)
 
 **As linguagens da web**
 
-Tudo na web possui uma padronizacao documentada, HTML = HTML5, DOM = w3, [JS](https://www.treinaweb.com.br/blog/qual-a-diferenca-entre-ecmascript-e-javascript), [CSS](https://www.w3.org/Style/CSS/#specs), porem mesmo qunado alguma parte da linguagem sai de uso ela continua funcional por _Backward compatibility_.
+HTML e CSS não são linguagens
+
+Tudo na web possui uma padronizacao documentada, HTML = [HTML5](https://www.infowester.com/introhtml5.php), [JS](https://www.treinaweb.com.br/blog/qual-a-diferenca-entre-ecmascript-e-javascript), [CSS](https://www.w3.org/Style/CSS/#specs), porem mesmo qunado alguma parte da linguagem sai de uso ela continua funcional por _Backward compatibility_.
 
 [Porque componentes HTML saem de circulação](https://css-tricks.com/why-do-some-html-elements-become-deprecated/)
 
-O browser consegue interpretar praticamente todo html, quebrado, ruim ou fora de uso, como por exemplo a pagina principal do google, que possui html que saiu de uso a anos, porem como o foco é em optimizacao eles preferem manter codigo fora de data para não aumentar o tamanho da pagina.
+O browser consegue interpretar praticamente todo html, quebrado, ruim ou fora de uso, como por exemplo a pagina principal do google, que possui html que saiu de uso a anos, porém como o foco é em optimizacao eles preferem manter codigo fora de data para não aumentar o tamanho da pagina.
 
 ---
 
@@ -122,6 +126,7 @@ JS
 
 - [Tutorial de JS](https://www.youtube.com/watch?v=q8SHaDQdul0&list=PLRqwX-V7Uu6YgpA3Oht-7B4NBQwFVe3pr)
 - [docs](https://www.w3schools.com/js/default.asp)
+- [Js mais explicativo](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 TS
 
@@ -162,7 +167,7 @@ Semântica, boas praticas
 
 # 3. Frameworks, Le Vue, Le Nuxt
 
-Atualmente usamos o **Nuxt2**, então esse material foca em nuxt2 com alguns materiais de vue2 e outros vue3 (nuxt3 não lançado oficialmente ainda)
+Atualmente usamos o **Nuxt2**, então esse material foca em nuxt2 com algumas fontes de vue2 e outras de vue3 (nuxt3 não lançado oficialmente ainda)
 
 [O que é um framework](https://www.freecodecamp.org/news/what-is-a-framework-software-frameworks-definition/)
 
@@ -186,10 +191,12 @@ Atualmente usamos o **Nuxt2**, então esse material foca em nuxt2 com alguns mat
 
 **[Porque o nuxt](https://cubettech.com/resources/blog/nuxt-js-and-vue-js-reasons-why-they-differ-and-when-do-they-combine/)**
 
+**Conceitos usados em frameworks**
+
 [Module bundlers](https://snipcart.com/blog/javascript-module-bundler)
 Module bundler, transformam todo os imports de um projeto em um arquivo estaticos prontos para o navegador, os frameworks ja vem com um bundler na instalação, algumas vezes é possivel escolher qual.
 
-Mais info
+**Mais info**
 
 [Teoria de melhor criação de componentes](https://youtu.be/HVzYir_0Kgg)
 
