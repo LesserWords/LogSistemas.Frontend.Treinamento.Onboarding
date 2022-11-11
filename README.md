@@ -8,6 +8,8 @@ _Novembro de 2022_
 
 - Conhecimento de como usar **alguma** linguagem de programação.
 
+- Conhecimento de Git
+
 ### **As seguintes ferramentas instaladas:**
 
 - **NVM**: Para facilitar o uso e a mudança de versões de Node : [Como usar](https://www.freecodecamp.org/news/nvm-for-windows-how-to-download-and-install-node-version-manager-in-windows-10/)
