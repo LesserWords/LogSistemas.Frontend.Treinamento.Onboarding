@@ -110,6 +110,8 @@ O browser consegue interpretar praticamente todo html, quebrado, ruim ou fora de
 
 ### **Bases:**
 
+[Full curso de html5 e css3](https://www.youtube.com/watch?v=F74GKCLXUWM&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=6), porém pode usar qualquer curso prefira, existe material em abundância.
+
 HTML
 
 - [docs](https://www.w3schools.com/html/default.asp)
@@ -140,8 +142,10 @@ Conceitos essenciais:
 [Table](https://www.w3schools.com/html/html_tables.asp) ([mais info](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Basics))  
 [Dialog](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dialog) ([tutorial](https://www.youtube.com/watch?v=TAB_v6yBXIE))
 
-Semântica, boas praticas  
- [https://developer.mozilla.org/en-US/docs/Glossary/Semantics](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)  
+**Semântica, boas praticas**
+
+[https://github.com/hail2u/html-best-practices](https://github.com/hail2u/html-best-practices)
+[https://developer.mozilla.org/en-US/docs/Glossary/Semantics](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)  
  [https://www.freecodecamp.org/news/html-best-practices/](https://www.freecodecamp.org/news/html-best-practices/)  
  [https://hackernoon.com/how-to-write-semantic-html-dkq3ulo](https://hackernoon.com/how-to-write-semantic-html-dkq3ulo)
 
@@ -153,6 +157,7 @@ Semântica, boas praticas
 [Border](https://www.w3schools.com/csSref/pr_border.php)  
 [Grid](https://www.w3schools.com/csSref/pr_grid.php)  
 [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+[Floats](https://css-tricks.com/all-about-floats/)
 
 - JS
 
