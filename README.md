@@ -1,56 +1,80 @@
-_Data desse material: Novembro de 2022_
+_Novembro de 2022_
 
-## **Pré-requesitos** ##
+**_Em progresso_**
 
-- Entendimento de **Inglês**, fala e escrita.    
-- Conhecimento de como usar **alguma** linguagem de programação.  
+## **Pré-requesitos**
 
-### **As seguintes ferramentas instaladas:** ###
-- **NVM**: Para facilitar o uso e a mudança de versões de Node : [Como usar](https://www.freecodecamp.org/news/nvm-for-windows-how-to-download-and-install-node-version-manager-in-windows-10/)  
-- **Node**: v16.18.1 (por dependência no projeto atual)  
-- **NPM**: latest    
+- Entendimento de **Inglês**, fala e escrita.
+
+- Conhecimento de como usar **alguma** linguagem de programação.
+
+### **As seguintes ferramentas instaladas:**
+
+- **NVM**: Para facilitar o uso e a mudança de versões de Node : [Como usar](https://www.freecodecamp.org/news/nvm-for-windows-how-to-download-and-install-node-version-manager-in-windows-10/)
+- **Node**: v16.18.1 (por dependência no projeto atual)
+
+- **NPM**: latest
+
 - **YARN**: latest
 
-___
-### **Ferramentas de ajuda online:** ###
+- **Editor de codigo: VSCode**, caso queira usar outro editor terá que achar como utilizar as extenções.
+
+Extenções para o VSCode
+
+**_Essenciais:_**
+
+- Sass
+- Prettier
+- ESLint
+- Auto Complete Tag
+- Auto Close Tag
+- Auto Rename Tag
+- Vue.js Extension Pack
+- vuetify-vscode
+
+**_Opcionais:_**
+
+- vscode-icons
+- Live Server
+- GitLens — Git supercharged
+- gitflow
+- CSS Peek
+
+---
+
+### **Ferramentas de ajuda online:**
 
 - [CodeSandbox.io](https://codesandbox.io/), na minha opinião o melhor ambiente de programação online, usado para testes, protótipos e compartilhamento de código, com suporte a instalação de dependências e aos principais frameworks.
 
-### **Links de suporte:** ###
+### **Links de suporte:**
 
 [Roadmap completo de web, não é preciso saber tudo agora(para estudo futuro, curiosidade)](https://roadmap.sh/frontend)
 
-[Algums livros de introdução bacana](https://github.com/gustavoguanabara/html-css/tree/master/aulas-pdf)
+[Melhor fonte de info web, varias tecnologias](https://developer.mozilla.org/en-US/)
 
-Base de [html](https://www.w3schools.com/html/default.asp), [css](https://www.w3schools.com/css/default.asp) e [js](https://www.w3schools.com/js/default.asp)
-
-[Css mais explicativo](https://developer.mozilla.org/en-US/docs/Web/CSS/Cascade)
-
-[Ótima fonte de css e seus tricks e truques](https://css-tricks.com/)
-
-[Melhor fonte de info web](https://developer.mozilla.org/en-US/)
-
-[Dicas de CSS](https://www.youtube.com/kepowob)
-
-Ter em mente, estudo mais avançado:
+**Ter em mente, estudo mais avançado:**
 
 [Web APIs](https://developer.mozilla.org/en-US/docs/Web/API)
 
-## 0. Sobre programação, o pesquisador e o compartilhador
+# 0. Programação, o pesquisador e o compartilhador
 
-## 1. A Web
+Toda a internet e programação em geral evolui a base do compartilhamento, um bom programador não é só aquele que aprende, mas aquele que tambem compartilha o que aprendeu.
 
-Como navegadores funcionam, [video](https://www.youtube.com/watch?v=WjDrMKZWCt0), [artigo](https://web.dev/howbrowserswork/), [populando uma pagina](https://developer.mozilla.org/en-US/docs/Web/Performance/How_browsers_work)
+# 1. A Web
 
-Tudo na web possui uma padronizacao documentada, HTML = HTML5, DOM = w3, [JS](https://www.treinaweb.com.br/blog/qual-a-diferenca-entre-ecmascript-e-javascript), [CSS](https://www.w3.org/Style/CSS/#specs), porem mesmo saindo de uso, todas as funcionalidades passadas continuam funcionais.
+Começamos com como um navegador funciona e os protocolos de transferencia
 
-[Porque componentes HTML saem de circulação](https://css-tricks.com/why-do-some-html-elements-become-deprecated/)
+**Navegadores**
 
-O browser consegue interpretar praticamente todo html, quebrado, ruim ou fora de data, como por exemplo a pagina principal do google, que possui html que saiu de uso a anos, pois o foco é em optimizacao, alguns bytes a mais acabam custando milhares de dolares
+Como funcionam
 
-Qualquer palavra no formato <cobra> ou <corta-pedra> é html valido, o que muda é se o browser sabe fazer o que precisa
+[https://web.dev/howbrowserswork/](https://web.dev/howbrowserswork/)
 
-A primeira transferencia de um site vem em um pacote com 14kb
+[https://hackernoon.com/how-do-web-browsers-work-40cefd2cb1e1](https://hackernoon.com/how-do-web-browsers-work-40cefd2cb1e1)
+
+_Web Storage_
+
+[Tipos e diferencas](https://www.google.com/search?pws=0&q=browser+data+storage+types)
 
 **HTTP/S**
 
@@ -64,47 +88,88 @@ Para que serve, como funciona:
 
 [https://www.youtube.com/watch?v=iYM2zFP3Zn0](https://www.youtube.com/watch?v=iYM2zFP3Zn0)
 
-## 2. Pão com água, a.k.a HTML, CSS, JS(seu upgrade: TS)
+Como navegadores funcionam, [video](https://www.youtube.com/watch?v=WjDrMKZWCt0), [artigo](https://web.dev/howbrowserswork/), [populando uma pagina](https://developer.mozilla.org/en-US/docs/Web/Performance/How_browsers_work)
 
-[Basico de CSS](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
+**As linguagens da web**
 
-[Tutorial de JS](https://www.youtube.com/watch?v=q8SHaDQdul0&list=PLRqwX-V7Uu6YgpA3Oht-7B4NBQwFVe3pr)
+Tudo na web possui uma padronizacao documentada, HTML = HTML5, DOM = w3, [JS](https://www.treinaweb.com.br/blog/qual-a-diferenca-entre-ecmascript-e-javascript), [CSS](https://www.w3.org/Style/CSS/#specs), porem mesmo qunado alguma parte da linguagem sai de uso ela continua funcional por _Backward compatibility_.
 
-[Introdução ao Typescript](https://www.youtube.com/watch?v=5_RIHHpQcoM&list=PLFzsFUO-y0HA8cL6w2RxAJoiznkae7uV_)
+[Porque componentes HTML saem de circulação](https://css-tricks.com/why-do-some-html-elements-become-deprecated/)
+
+O browser consegue interpretar praticamente todo html, quebrado, ruim ou fora de uso, como por exemplo a pagina principal do google, que possui html que saiu de uso a anos, porem como o foco é em optimizacao eles preferem manter codigo fora de data para não aumentar o tamanho da pagina.
+
+---
+
+# 2. Pão com água, a.k.a HTML, CSS, JS (seu upgrade: TS)
+
+[Algums livros de introdução bacana](https://github.com/gustavoguanabara/html-css/tree/master/aulas-pdf)
+
+### **Bases:**
+
+HTML
+
+- [docs](https://www.w3schools.com/html/default.asp)
+
+CSS
+
+- [Basico de CSS](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
+- [docs](https://www.w3schools.com/css/default.asp)
+- [Css mais explicativo](https://developer.mozilla.org/en-US/docs/Web/CSS/Cascade)
+- [Ótima fonte de css e seus tricks e truques](https://css-tricks.com/)
+- [Dicas de CSS](https://www.youtube.com/kepowob)
+
+JS
+
+- [Tutorial de JS](https://www.youtube.com/watch?v=q8SHaDQdul0&list=PLRqwX-V7Uu6YgpA3Oht-7B4NBQwFVe3pr)
+- [docs](https://www.w3schools.com/js/default.asp)
+
+TS
+
+- [Introdução ao Typescript](https://www.youtube.com/watch?v=5_RIHHpQcoM&list=PLFzsFUO-y0HA8cL6w2RxAJoiznkae7uV_)
 
 Conceitos essenciais:
 
 - HTML
-  [Forms](https://web.dev/learn/forms/)
-  [Table](https://www.w3schools.com/html/html_tables.asp) ([mais info](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Basics))
-  [Dialog](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dialog) ([tutorial](https://www.youtube.com/watch?v=TAB_v6yBXIE))
-- Semântica, boas praticas
-  [https://developer.mozilla.org/en-US/docs/Glossary/Semantics](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
-  [https://www.freecodecamp.org/news/html-best-practices/](https://www.freecodecamp.org/news/html-best-practices/)
-  [https://hackernoon.com/how-to-write-semantic-html-dkq3ulo](https://hackernoon.com/how-to-write-semantic-html-dkq3ulo)
+
+[Forms](https://web.dev/learn/forms/)  
+[Table](https://www.w3schools.com/html/html_tables.asp) ([mais info](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Basics))  
+[Dialog](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dialog) ([tutorial](https://www.youtube.com/watch?v=TAB_v6yBXIE))
+
+Semântica, boas praticas  
+ [https://developer.mozilla.org/en-US/docs/Glossary/Semantics](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)  
+ [https://www.freecodecamp.org/news/html-best-practices/](https://www.freecodecamp.org/news/html-best-practices/)  
+ [https://hackernoon.com/how-to-write-semantic-html-dkq3ulo](https://hackernoon.com/how-to-write-semantic-html-dkq3ulo)
+
 - CSS
-  [Selectors](https://www.w3schools.com/csSref/css_selectors.php)
-  [Margin](https://www.w3schools.com/csSref/pr_margin.php)
-  [Padding](https://www.w3schools.com/csSref/pr_padding.php)
-  [Border](https://www.w3schools.com/csSref/pr_border.php)
-  [Grid](https://www.w3schools.com/csSref/pr_grid.php)
-  [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
+[Selectors](https://www.w3schools.com/csSref/css_selectors.php)  
+[Margin](https://www.w3schools.com/csSref/pr_margin.php)  
+[Padding](https://www.w3schools.com/csSref/pr_padding.php)  
+[Border](https://www.w3schools.com/csSref/pr_border.php)  
+[Grid](https://www.w3schools.com/csSref/pr_grid.php)  
+[Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
 - JS
-  [Promises](https://www.youtube.com/watch?v=QO4NXhWo_NM&list=PLRqwX-V7Uu6bKLPQvPRNNE65kBL62mVfx)
-  [Async/Await](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous)
 
-## 3. Frameworks, Le Vue, Le Nuxt
+[Promises](https://www.youtube.com/watch?v=QO4NXhWo_NM&list=PLRqwX-V7Uu6bKLPQvPRNNE65kBL62mVfx)  
+[Async/Await](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous)
 
-Atualmente usamos o Nuxt2, então esse material foca em nuxt2 com algum material em vue2 e outros vue3 para o final(nuxt3 não lançado ainda)
+**Alguns projetos para treino**
+
+[https://dev.to/theme_selection/front-end-project-examples-for-beginners-48i7](https://dev.to/theme_selection/front-end-project-examples-for-beginners-48i7)
+
+---
+
+# 3. Frameworks, Le Vue, Le Nuxt
+
+Atualmente usamos o **Nuxt2**, então esse material foca em nuxt2 com alguns materiais de vue2 e outros vue3 (nuxt3 não lançado oficialmente ainda)
 
 [O que é um framework](https://www.freecodecamp.org/news/what-is-a-framework-software-frameworks-definition/)
 
 - Vue
 
-[Resumo de Vue](https://www.youtube.com/watch?v=nhBVL41-_Cw)
-
-[vue tutorial](https://www.youtube.com/watch?v=FXpIoQ_rT_c)
-
+[Resumo de Vue](https://www.youtube.com/watch?v=nhBVL41-_Cw)  
+[Tutorial de vue](https://www.youtube.com/watch?v=FXpIoQ_rT_c)  
 [Documentação vue2](https://v2.vuejs.org/v2/guide/index.html)
 
 - Nuxt
@@ -130,12 +195,16 @@ Mais info
 
 [Sobre Refs](https://blog.logrocket.com/understanding-vue-refs/)
 
-## 4. O ambiente frontend
+---
 
-Muitas das bibliotecas usadas pelo NUXT possuem uma documentações oficial e uma especifica para o framework(como menos informação)
+# 4. O nosso ambiente frontend
 
-Chamadas API com [Axios](https://github.com/axios/axios) ([nuxt doc](https://axios.nuxtjs.org/))
+**As bibliotecas que extendem nosso sistema**:
 
-UI framework [Vuetify](https://vuetifyjs.com/en/introduction/why-vuetify/#why-vuetify3f) ([nuxt doc](https://www.npmjs.com/package/@nuxtjs/vuetify))
+**Obs:** Muitas das bibliotecas usadas pelo NUXT possuem uma documentações oficial e uma especifica para o framework(com menos informação, mais especificada)
 
-Validação de relatorios com [Vee-validate](https://vee-validate.logaretm.com/v3/)
+- Chamadas API com [Axios](https://github.com/axios/axios) ([nuxt doc](https://axios.nuxtjs.org/))
+
+- UI framework [Vuetify](https://vuetifyjs.com/en/introduction/why-vuetify/#why-vuetify3f) ([nuxt doc](https://www.npmjs.com/package/@nuxtjs/vuetify))
+
+- Validação de relatorios com [Vee-validate](https://vee-validate.logaretm.com/v3/)
