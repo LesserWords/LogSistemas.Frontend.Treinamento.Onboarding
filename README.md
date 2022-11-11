@@ -113,13 +113,18 @@ O browser consegue interpretar praticamente todo html, quebrado, ruim ou fora de
 ### **Bases:**
 
 [Full curso de html5 e css3](https://www.youtube.com/watch?v=F74GKCLXUWM&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=6), porém pode usar qualquer curso prefira, existe material em abundância.
+[Full curso com menos enrrolação](https://www.youtube.com/watch?v=D-h8L5hgW-w)
 
 HTML
 
+- [Full curson introdutorio](https://www.youtube.com/watch?v=pQN-pnXPaVg)  
 - [docs](https://www.w3schools.com/html/default.asp)
 
 CSS
 
+- [Curson introdutorio](https://www.youtube.com/watch?v=yfoY53QXEnI)  
+- [Full curso](https://www.youtube.com/watch?v=n4R2E7O-Ngo)   
+- [Curso mais pratico](https://www.youtube.com/watch?v=FqmB-Zj2-PA)  
 - [Basico de CSS](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
 - [docs](https://www.w3schools.com/css/default.asp)
 - [Css mais explicativo](https://developer.mozilla.org/en-US/docs/Web/CSS/Cascade)
@@ -129,8 +134,11 @@ CSS
 JS
 
 - [Tutorial de JS](https://www.youtube.com/watch?v=q8SHaDQdul0&list=PLRqwX-V7Uu6YgpA3Oht-7B4NBQwFVe3pr)
+- [Outro curso de JS](https://www.youtube.com/watch?v=hdI2bqOjy3c)  
 - [docs](https://www.w3schools.com/js/default.asp)
-- [Js mais explicativo](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [Js mais explicativo](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)  
+
+*[Projeto com passo a passo usando HTML,CSS e JS](https://www.youtube.com/watch?v=P7t13SGytRk)*
 
 TS
 
