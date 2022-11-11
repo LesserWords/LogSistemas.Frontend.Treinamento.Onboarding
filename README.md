@@ -158,7 +158,7 @@ Conceitos essenciais:
 [Padding](https://www.w3schools.com/csSref/pr_padding.php)  
 [Border](https://www.w3schools.com/csSref/pr_border.php)  
 [Grid](https://www.w3schools.com/csSref/pr_grid.php)  
-[Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+[Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)  
 [Floats](https://css-tricks.com/all-about-floats/)
 
 - JS
