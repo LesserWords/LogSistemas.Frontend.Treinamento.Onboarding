@@ -146,8 +146,8 @@ Conceitos essenciais:
 
 **Semântica, boas praticas**
 
-[https://github.com/hail2u/html-best-practices](https://github.com/hail2u/html-best-practices)
-[https://developer.mozilla.org/en-US/docs/Glossary/Semantics](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)  
+ [https://github.com/hail2u/html-best-practices](https://github.com/hail2u/html-best-practices)  
+ [https://developer.mozilla.org/en-US/docs/Glossary/Semantics](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)    
  [https://www.freecodecamp.org/news/html-best-practices/](https://www.freecodecamp.org/news/html-best-practices/)  
  [https://hackernoon.com/how-to-write-semantic-html-dkq3ulo](https://hackernoon.com/how-to-write-semantic-html-dkq3ulo)
 
