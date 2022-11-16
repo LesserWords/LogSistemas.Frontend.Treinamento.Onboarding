@@ -1,0 +1,33 @@
+#data {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  display: flex;
+  flex-flow: row wrap;
+}
+.user {
+  color: aliceblue;
+  background-color: brown;
+  width: 300px;
+  justify-content: center;
+  text-align: center;
+  border-radius: 5px;
+  margin: 15px;
+}
+.user img {
+  margin: 5px;
+  border: 3px solid white;
+  border-radius: 10px;
+}
+
+.app > button {
+  color: grey;
+  border: 1px solid transparent;
+  border-radius: 10px;
+  text-align: center;
+  text-decoration: none;
+  padding: 15px 32px;
+  background-color: pink;
+  margin: 15px;
+}
+.button:hover {
+  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.24), 0 17px 50px 0 rgba(0, 0, 0, 0.19);
+}
