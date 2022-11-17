@@ -10,17 +10,25 @@ async function getData() {
     const html = responseObject.data
       .map((user) => {
         return `
-      <div class="user">
-        <p><img src="${user.avatar}" alt="${user.first_name}" /></p>
-        <p>Nome: ${user.first_name}</p>
-        <p>Email: ${user.email}</p>
+      <div id="user-${user.id}" class="user-card" >
+        <p><img id="userImg" src="${user.avatar}" alt="${user.first_name}" /></p>
+        <p class="user-name">${user.first_name}</p>
+        <p class="user-email">${user.email}</p>
+        <p><button class="select-user-button" onclick="selectUser(this)" >Selecionar</button></p>
       </div>
       `;
       })
       .join("");
-    console.log(html);
+    // console.log(html);
     document.querySelector("#data").insertAdjacentHTML("afterbegin", html);
   } catch (e) {
     console.log(e);
+  }
+}
+function selectUser(element) {
+  if (element.parentNode.parentNode.classList.contains("user-card-selected")) {
+    element.parentNode.parentNode.classList.remove("user-card-selected");
+  } else {
+    element.parentNode.parentNode.classList.add("user-card-selected");
   }
 }

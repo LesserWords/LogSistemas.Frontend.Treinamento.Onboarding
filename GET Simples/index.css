@@ -3,7 +3,7 @@
   display: flex;
   flex-flow: row wrap;
 }
-.user {
+.user-card {
   color: aliceblue;
   background-color: brown;
   width: 300px;
@@ -12,12 +12,29 @@
   border-radius: 5px;
   margin: 15px;
 }
-.user img {
+.user-card-selected {
+  color: brown;
+  background-color: aliceblue;
+}
+.user-card img {
   margin: 5px;
   border: 3px solid white;
   border-radius: 10px;
 }
-
+.user-card .user-name {
+  margin: 5px;
+}
+.user-card .user-email {
+  margin-bottom: 30px;
+}
+.select-user-button {
+  font-weight: 900;
+  color: white;
+  background-color: rgb(190, 201, 36);
+  border: none;
+  padding: 10px 20px;
+  border-radius: 3px;
+}
 .app > button {
   color: grey;
   border: 1px solid transparent;
