@@ -56,6 +56,8 @@ Extenções para o VSCode
 
 [Checar se uma tecnologia tem suporte no navegador](https://caniuse.com/)
 
+[Lista de APIs publicas](https://github.com/public-apis/public-apis)
+
 **Ter em mente, estudo mais avançado:**
 
 [Web APIs](https://developer.mozilla.org/en-US/docs/Web/API)
@@ -117,14 +119,14 @@ O browser consegue interpretar praticamente todo html, quebrado, ruim ou fora de
 
 HTML
 
-- [Full curso introdutório](https://www.youtube.com/watch?v=pQN-pnXPaVg)  
+- [Full curso introdutório](https://www.youtube.com/watch?v=pQN-pnXPaVg)
 - [docs](https://www.w3schools.com/html/default.asp)
 
 CSS
 
-- [Curso introdutório](https://www.youtube.com/watch?v=yfoY53QXEnI)  
-- [Full curso](https://www.youtube.com/watch?v=n4R2E7O-Ngo)   
-- [Curso mais prático](https://www.youtube.com/watch?v=FqmB-Zj2-PA)  
+- [Curso introdutório](https://www.youtube.com/watch?v=yfoY53QXEnI)
+- [Full curso](https://www.youtube.com/watch?v=n4R2E7O-Ngo)
+- [Curso mais prático](https://www.youtube.com/watch?v=FqmB-Zj2-PA)
 - [Básico de CSS](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
 - [docs](https://www.w3schools.com/css/default.asp)
 - [Css mais explicativo](https://developer.mozilla.org/en-US/docs/Web/CSS/Cascade)
@@ -134,11 +136,11 @@ CSS
 JS
 
 - [Tutorial de JS](https://www.youtube.com/watch?v=q8SHaDQdul0&list=PLRqwX-V7Uu6YgpA3Oht-7B4NBQwFVe3pr)
-- [Outro curso de JS](https://www.youtube.com/watch?v=hdI2bqOjy3c)  
+- [Outro curso de JS](https://www.youtube.com/watch?v=hdI2bqOjy3c)
 - [docs](https://www.w3schools.com/js/default.asp)
-- [Js mais explicativo](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)  
+- [Js mais explicativo](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
-*[Projeto com passo a passo usando HTML,CSS e JS](https://www.youtube.com/watch?v=P7t13SGytRk)*
+_[Projeto com passo a passo usando HTML,CSS e JS](https://www.youtube.com/watch?v=P7t13SGytRk)_
 
 TS
 
@@ -154,8 +156,8 @@ Conceitos essenciais:
 
 **Semântica, boas praticas**
 
- [https://github.com/hail2u/html-best-practices](https://github.com/hail2u/html-best-practices)  
- [https://developer.mozilla.org/en-US/docs/Glossary/Semantics](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)    
+[https://github.com/hail2u/html-best-practices](https://github.com/hail2u/html-best-practices)  
+ [https://developer.mozilla.org/en-US/docs/Glossary/Semantics](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)  
  [https://www.freecodecamp.org/news/html-best-practices/](https://www.freecodecamp.org/news/html-best-practices/)  
  [https://hackernoon.com/how-to-write-semantic-html-dkq3ulo](https://hackernoon.com/how-to-write-semantic-html-dkq3ulo)
 
