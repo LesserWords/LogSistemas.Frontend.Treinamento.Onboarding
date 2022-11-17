@@ -5,37 +5,26 @@ async function submitForm(e, form) {
   const jsonFormData = {};
   for (const pair of new FormData(form)) {
     jsonFormData[pair[0]] = pair[1];
-    // jsonFormData["agora"] = "ontem";
-    console.log(jsonFormData);
   }
-  // const dollllo = new FormData(form);
-  // console.log(...dollllo);
-
-  const headers = {
-    "Content-Type": "application/json",
-    Authorization: "Bearer TOKEN_MISSING",
-  };
   try {
-    const rawResponse = await fetch(
-      "https://jsonplaceholder.typicode.com/posts",
-      {
-        method: "POST",
-        headers: headers,
-        body: JSON.stringify(jsonFormData),
-      }
-    );
-    const content = await rawResponse.json();
-    console.log(content);
+    const response = await fetch("https://jsonplaceholder.typicode.com/posts", {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+        Authorization: "Bearer TOKEN_MISSING",
+      },
+      body: JSON.stringify(jsonFormData),
+    });
+    const content = await response.json();
   } catch (e) {
-    console.error(`Erro no POST: ${err}`);
+    console.error("Erro no POST" + e);
     throw e;
   }
-  btnSubmit.disabled = false;
 }
 
-const sampleForm = document.querySelector("#sampleForm");
-if (sampleForm) {
-  sampleForm.addEventListener("submit", function (e) {
+const simpleForm = document.querySelector("#simpleForm");
+if (simpleForm) {
+  simpleForm.addEventListener("submit", function (e) {
     submitForm(e, this);
   });
 }
