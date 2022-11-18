@@ -17,3 +17,9 @@
 - Implementar um POST simples como o visto na aula.
 - Adicionar Css do zero nesse POST simples (deixei vazio intencionalmente), pesquise exemplos e use a criatividade.
 - Se aprofundar nas syntaxes de html, css e js (Checar _Conceitos essenciais_ no README).
+
+## 4. Estudar e praticar ts
+
+- Estudar a documentação do Typescript.  
+- Converter os Javascript do GET Simples e do POST Simples para Typescript com tipagem do retorno do GET.
+- Praticar as linguagens.   
