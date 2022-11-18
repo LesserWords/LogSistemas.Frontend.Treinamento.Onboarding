@@ -146,6 +146,7 @@ TS
 
 - [Introdução ao Typescript](https://www.youtube.com/watch?v=5_RIHHpQcoM&list=PLFzsFUO-y0HA8cL6w2RxAJoiznkae7uV_)
 - [Docs](https://www.typescriptlang.org/docs/)
+- [Tutorial de inicio](https://www.freecodecamp.org/news/learn-typescript-beginners-guide/)
 - Cola de typescript:  
   ![cola de typescript](https://github.com/LesserWords/LogSistemas.Frontend.Treinamento.Onboarding/blob/main/Cola-TypeScript.png)
 
