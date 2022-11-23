@@ -190,7 +190,9 @@ Conceitos essenciais:
 
 Atualmente usamos o **Nuxt2**, então esse material foca em nuxt2 com algumas fontes de vue2 e outras de vue3 (nuxt3 não lançado oficialmente ainda)
 
-[O que é um framework](https://www.freecodecamp.org/news/what-is-a-framework-software-frameworks-definition/)
+[O que é um framework](https://www.freecodecamp.org/news/what-is-a-framework-software-frameworks-definition/)  
+[Web Components](https://www.youtube.com/watch?v=83W63gTVlSk)  
+[DOM, Shadow DOM, Virtual DOM](https://www.treinaweb.com.br/blog/o-que-e-dom-virtual-dom-e-shadow-dom)
 
 - Vue
 
@@ -200,14 +202,10 @@ Atualmente usamos o **Nuxt2**, então esse material foca em nuxt2 com algumas fo
 
 - Nuxt
 
-[Explicação simplificada do Nuxt](https://www.youtube.com/watch?v=l2y8oYqNV8I)
-
-[Documentação do nuxt2](https://nuxtjs.org/docs/get-started/installation/)
-
-[Intro do Nuxt2](https://www.youtube.com/watch?v=IRKx97XfiYI&list=PLtIMuymsF0jcsFDIAq6fGGU2kuOFrFPSm&index=1)
-
-[Curso introdutorio de nuxt](https://www.youtube.com/watch?v=IRKx97XfiYI&list=PLtIMuymsF0jcsFDIAq6fGGU2kuOFrFPSm)
-
+[Explicação simplificada do Nuxt](https://www.youtube.com/watch?v=l2y8oYqNV8I)  
+[Documentação do nuxt2](https://nuxtjs.org/docs/get-started/installation/)  
+[Intro do Nuxt2](https://www.youtube.com/watch?v=IRKx97XfiYI&list=PLtIMuymsF0jcsFDIAq6fGGU2kuOFrFPSm&index=1)  
+[Curso introdutorio de nuxt](https://www.youtube.com/watch?v=IRKx97XfiYI&list=PLtIMuymsF0jcsFDIAq6fGGU2kuOFrFPSm)  
 [SandBox de Nuxt](https://codesandbox.io/s/github/nuxt/codesandbox-nuxt/tree/master/?file=/pages/index.vue)
 
 **[Porque o nuxt](https://cubettech.com/resources/blog/nuxt-js-and-vue-js-reasons-why-they-differ-and-when-do-they-combine/)**
