@@ -1,6 +1,6 @@
 interface IUser {
     avatar: string 
-    email?: string
+    email: string
     first_name: string
     id: number 
     last_name: string
@@ -28,8 +28,8 @@ interface INoobUser extends IUser{
     level:number
 }
 async function GetUsers() {
-    const response = await fetch("https://reqres.in/api/users")
-    const responseObject:IApiResponse<IUser> = await response.json()
+    const response: Response = await fetch("https://reqres.in/api/users")
+    const responseObject: IApiResponse<IUser> = await response.json()
     console.log(responseObject.data[0].first_name)
     const testeObj: IUser = {
         id: 1,
