@@ -176,9 +176,9 @@ Conceitos essenciais:
 [Floats](https://css-tricks.com/all-about-floats/)
 
 - JS
-
-[Promises](https://www.youtube.com/watch?v=QO4NXhWo_NM&list=PLRqwX-V7Uu6bKLPQvPRNNE65kBL62mVfx)  
-[Async/Await](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous)
+  [100 conceitos essenciais de JS](https://www.youtube.com/watch?v=lkIFF4maKMU)  
+  [Promises](https://www.youtube.com/watch?v=QO4NXhWo_NM&list=PLRqwX-V7Uu6bKLPQvPRNNE65kBL62mVfx)  
+  [Async/Await](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous)
 
 **Alguns projetos para treino**
 
