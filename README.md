@@ -2,6 +2,8 @@ _Novembro de 2022_
 
 **_Em desenvolvimento_**
 
+[Slides usados na explicação](https://tome.app/tomelicious/the-web-clab709my183194v625ii8wlpj)
+
 ## **Pré-requesitos**
 
 - Entendimento de **Inglês**, fala e escrita.
