@@ -20,6 +20,12 @@
 
 ## 4. Estudar e praticar ts
 
-- Estudar a documentação do Typescript.  
+- Estudar a documentação do Typescript.
 - Converter os Javascript do GET Simples e do POST Simples para Typescript com tipagem do retorno do GET.
-- Praticar as linguagens.   
+- Praticar as linguagens.
+
+## 5. Estudar e praticar vue
+
+- Estudar a documentação do vue
+- Refazer o GET e POST simples com vue
+- Fazer esse exemplo de vue que utiliza o composition API: [Video](https://www.youtube.com/watch?v=qhjxAP1hFuI)
