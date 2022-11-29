@@ -199,7 +199,7 @@ Atualmente usamos o **Nuxt2**, então esse material foca em nuxt2 com algumas fo
 - Vue
 
 [Resumo de Vue](https://www.youtube.com/watch?v=nhBVL41-_Cw)  
-[Tutorial de vue](https://www.youtube.com/watch?v=FXpIoQ_rT_c)
+[Tutorial de vue](https://www.youtube.com/watch?v=FXpIoQ_rT_c)  
 [Tutorial mais antigo(2 anos), porem facíl de compreender o basico](https://www.youtube.com/watch?v=vaCrzaeC-RE&list=PLPwpWyfm6JADRf8x1Jc0Da8R71WJyt-Jn)  
 [Documentação vue2](https://v2.vuejs.org/v2/guide/index.html)  
 [Documentação vue3](https://vuejs.org/guide/introduction.html)
