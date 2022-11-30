@@ -190,6 +190,12 @@ Conceitos essenciais:
 
 # 3. Frameworks, Le Vue, Le Nuxt
 
+Pré-requesitos
+
+- Saber usar html
+- Saber usar css
+- Saber usar js
+
 Atualmente usamos o **Nuxt2**, então esse material foca em nuxt2 com algumas fontes de vue2 e outras de vue3 (nuxt3 não lançado oficialmente ainda)
 
 [O que é um framework](https://www.freecodecamp.org/news/what-is-a-framework-software-frameworks-definition/)  
@@ -229,12 +235,26 @@ Module bundler, transformam todo os imports de um projeto em um arquivo estatico
 
 # 4. O nosso ambiente frontend
 
-**As bibliotecas que extendem nosso sistema**:
+**As principais bibliotecas que extendem nossa aplicação**:
 
 **Obs:** Muitas das bibliotecas usadas pelo NUXT possuem uma documentações oficial e uma especifica para o framework(com menos informação, mais especificada)
 
 - Chamadas API com [Axios](https://github.com/axios/axios) ([nuxt doc](https://axios.nuxtjs.org/))
 
+- States com [Vuex](https://nuxtjs.org/docs/directory-structure/store/) (automatizado pelo nuxt)
+
+- Roteamento com [Vue-router](https://nuxtjs.org/docs/features/file-system-routing) (automatizado pelo nuxt)
+
+- Tradução com [i18n](https://phrase.com/blog/posts/nuxt-js-tutorial-i18n/) ([nuxt doc](https://i18n.nuxtjs.org/))
+
 - UI framework [Vuetify](https://vuetifyjs.com/en/introduction/why-vuetify/#why-vuetify3f) ([nuxt doc](https://www.npmjs.com/package/@nuxtjs/vuetify))
 
 - Validação de relatorios com [Vee-validate](https://vee-validate.logaretm.com/v3/)
+
+- Manuseamento de datas com [Moment.js](https://momentjs.com/) ([nuxt doc](https://github.com/nuxt-community/moment-module))
+
+- Mascaras para inputs com [v-mask](https://www.npmjs.com/package/v-mask)
+
+- Inputs de dinheiro com [v-currency-field](https://phiny1.github.io/v-currency-field/started.html)
+
+- Funções de utilidade com [Lodash](https://lodash.com/)
