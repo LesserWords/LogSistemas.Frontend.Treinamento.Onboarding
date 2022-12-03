@@ -27,5 +27,10 @@
 ## 5. Estudar e praticar vue
 
 - Estudar a documentação do vue
-- Refazer o GET e POST simples com vue
+- Refazer o GET simples com vue
 - Fazer esse exemplo de vue que utiliza o composition API: [Video](https://www.youtube.com/watch?v=qhjxAP1hFuI)
+
+## 6. Se aprofundar em Vue
+
+- Estudar mais Vue
+- Com base nas aulas e nos exemplos, fazer um crud simples
