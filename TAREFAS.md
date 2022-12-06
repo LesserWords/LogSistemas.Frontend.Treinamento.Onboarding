@@ -34,3 +34,11 @@
 
 - Estudar mais Vue
 - Com base nas aulas e nos exemplos, fazer um crud simples
+
+## 7. Estudar Nuxt e praticar
+
+- Estudar a documentação do Nuxt
+- Estudar a documentação do Vuetify
+- Estudar a documentação do Axios
+- Implementar uma pesquisa simples  
+  **_(Links no README)_**
